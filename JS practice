@@ -2,3 +2,9 @@ function add(first,second){
     return first+second 
 }
 add(1,2)
+
+"hi".toUpperCase()
+
+['a','e','l','j'].sort()
+
+[1,2,4,8,16,32,64].indexOf(4)
